@@ -1,0 +1,45 @@
+{"students" : [
+    {
+        "id" : 1,
+        "first_name" : "Ganiefah",
+        "last_name" : "Majiet",
+        "email": "ganiefahmajiet3@gmail.com"
+    },
+    {
+        "id" : 2,
+        "first_name" : "",
+        "last_name" : "",
+        "email": ""
+    },
+    {
+        "id" : 3,
+        "first_name" : "",
+        "last_name" : "",
+        "email": ""
+    },
+    {
+        "id" : 4,
+        "first_name" : "",
+        "last_name" : "",
+        "email": ""
+    },
+    {
+        "id" : 5,
+        "first_name" : "",
+        "last_name" : "",
+        "email": ""
+    },
+    {
+        "id" : 6,
+        "first_name" : "",
+        "last_name" : "",
+        "email": ""
+    },
+    {
+        "id" : 7,
+        "first_name" : "",
+        "last_name" : "",
+        "email": ""
+    }
+]
+}
